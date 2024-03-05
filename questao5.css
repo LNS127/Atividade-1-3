@@ -1,0 +1,16 @@
+.caixa1{
+    width: 250px;
+    height: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: black;
+}
+
+ol :first-child{
+    color: aqua;
+}
+ol :last-child{
+    color: red;
+}

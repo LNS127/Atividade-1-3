@@ -1,9 +1,23 @@
-div{
-    width: 250px;
-    height: 250px;
+.caixa1{
+    width: 300px;
+    height: 150px;
     padding: 20px;
+    border-radius: 10px 2px;
+    background-image: url(https://i0.wp.com/dunapress.com/wp-content/uploads/2020/05/bandeira-do-sport-club-do-recife-145m-x-1m-sq002-D_NQ_NP_618965-MLB32696519864_102019-F.jpg?fit=1200%2C763&ssl=1);
+    background-size: cover;
 }
-class{
-    background-image 
-    background-size cover
+.subcaixa1{
+   width: 50px;
+   height: 25px;
+   border: 1px solid;
+   padding: 10px;
+   background-color: white;
+}
+.subcaixa2{
+    width: 50px;
+   height: 25px;
+   border: 1px solid;
+   padding: 10px;
+   background-color: black;
+    
 }
